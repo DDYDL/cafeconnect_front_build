@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1aa1621.css",
+    "main.js": "/static/js/main.e2b866d9.js",
+    "static/js/453.0ee25ffe.chunk.js": "/static/js/453.0ee25ffe.chunk.js",
+    "static/media/NotoSansKR-Thin.ttf": "/static/media/NotoSansKR-Thin.3c76aeeeb0d5302e0042.ttf",
+    "static/media/NotoSansKR-ExtraLight.ttf": "/static/media/NotoSansKR-ExtraLight.a8d29999646a399fbca4.ttf",
+    "static/media/NotoSansKR-Light.ttf": "/static/media/NotoSansKR-Light.eef1c4b85baf52cc28a7.ttf",
+    "static/media/NotoSansKR-Regular.ttf": "/static/media/NotoSansKR-Regular.9bc92a36ed81392f698b.ttf",
+    "static/media/NotoSansKR-Bold.ttf": "/static/media/NotoSansKR-Bold.f064e139058bfd9df2fb.ttf",
+    "static/media/NotoSansKR-Medium.ttf": "/static/media/NotoSansKR-Medium.b9d6e1b3e7a3d63546cc.ttf",
+    "static/media/NotoSansKR-ExtraBold.ttf": "/static/media/NotoSansKR-ExtraBold.a30f1f0b3b461fff07a7.ttf",
+    "static/media/logo.svg": "/static/media/logo.09cb12fa740921380dd940d44671dc2e.svg",
+    "static/media/upload-files-4ee86225-svg.svg": "/static/media/upload-files-4ee86225-svg.2e195978c888f00bf8d8fe1e4054dac4.svg",
+    "index.html": "/index.html",
+    "static/media/plus-circle-outline.svg": "/static/media/plus-circle-outline.8e9eb7bf8734c5aac165dd7f208f8bde.svg",
+    "static/media/minus-circle-outline.svg": "/static/media/minus-circle-outline.8b7ec4ce775c2fe661d946f3b1dbc0b4.svg",
+    "static/media/img.svg": "/static/media/img.701ea790286ace5ae5a1b8a1d5b58472.svg",
+    "static/media/frame-300.svg": "/static/media/frame-300.ec764e3e8d76d37b1c7f262ea552aa02.svg",
+    "main.d1aa1621.css.map": "/static/css/main.d1aa1621.css.map",
+    "main.e2b866d9.js.map": "/static/js/main.e2b866d9.js.map",
+    "453.0ee25ffe.chunk.js.map": "/static/js/453.0ee25ffe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1aa1621.css",
+    "static/js/main.e2b866d9.js"
+  ]
+}
